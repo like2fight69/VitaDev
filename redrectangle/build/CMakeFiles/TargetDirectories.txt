@@ -1,0 +1,6 @@
+/Users/tylersand/samples/sdl2/redrectangle/build/CMakeFiles/redrectangle.dir
+/Users/tylersand/samples/sdl2/redrectangle/build/CMakeFiles/redrectangle-velf.dir
+/Users/tylersand/samples/sdl2/redrectangle/build/CMakeFiles/redrectangle.self-self.dir
+/Users/tylersand/samples/sdl2/redrectangle/build/CMakeFiles/redrectangle.vpk-vpk.dir
+/Users/tylersand/samples/sdl2/redrectangle/build/CMakeFiles/edit_cache.dir
+/Users/tylersand/samples/sdl2/redrectangle/build/CMakeFiles/rebuild_cache.dir
