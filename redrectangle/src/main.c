@@ -22,6 +22,7 @@ SDL_Rect fillRect = { SCREEN_WIDTH  / 4,
 };
 
 SceCtrlData ctrl;
+int speed = 300;
 
 int main(int argc, char *argv[]) 
 {
@@ -88,6 +89,7 @@ int main(int argc, char *argv[])
   //test
   if(ctrl.up){
      printf("you pressed right");
+     squareRect.y -= speed / 30;
   }
   //test
   while(a)
